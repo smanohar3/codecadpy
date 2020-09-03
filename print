@@ -1,0 +1,2 @@
+#This will print the output
+print('Hello world!')
