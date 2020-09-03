@@ -1,0 +1,2 @@
+my_name = "Manohar"
+print("Hello and welcome " + my_name + "!")
