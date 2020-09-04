@@ -1,0 +1,5 @@
+def loading_screen():
+  print("This page is loading...")
+
+#calling the function
+loading_screen()
